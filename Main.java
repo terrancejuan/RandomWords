@@ -34,7 +34,7 @@ public class Main {
         String allWords;
         String[] stringArray;
 
-        file = new File("/Users/terrancehuang/IdeaProjects/RandomWords/words.txt");
+        file = new File("/Users/terrancehuang/JavaProjects/RandomWords/words.txt");
         sc = new Scanner(file);
         stringBuilder = new StringBuilder();
         // adding text to a string
